@@ -45,4 +45,3 @@ class CountdownService : IntentService("CountdownService"), CoroutineScope {
         Log.d("CountdownService", message)
     }
 }
-
